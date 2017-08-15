@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+
+# Sinatra is a DSL for quickly creating web applications in Ruby with minimal
+# effort
+gem 'sinatra'
+
+# Restarts an app when the filesystem changes
+gem 'rerun'
