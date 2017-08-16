@@ -12,13 +12,13 @@ This project is the result of my initial attempts to understand how to do this.
 
 ## Docker for ruby development
 
-The first of two examples. This demonstrates how you can use **Docker** to provide the environment for developing a basic [Sinatra](http://www.sinatrarb.com/) application.
+The first of two examples. This demonstrates how you can use **Docker** to provide the environment for developing a basic ruby [Sinatra](http://www.sinatrarb.com/) application.
 
 See its [README](/ruby) for further details.
 
 ## Docker for node development
 
-Still in progress, but essentially will be a similar example too the ruby one.
+The second example. This demonstrates how you can use **Docker** to provide the environment for developing a basic Node.js [Express](https://expressjs.com/) application.
 
 See its [README](/node) for further details.
 
