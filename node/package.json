@@ -1,0 +1,21 @@
+{
+  "name": "docker-for-node-dev",
+  "version": "0.1.0",
+  "description": "Example site used to demo Docker for node development",
+  "homepage": "https://github.com/Cruikshanks/docker-for-dev",
+  "license": "MIT",
+  "author": {
+    "name": "Alan Cruikshanks",
+    "url": "https://github.com/Cruikshanks"
+  },
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
